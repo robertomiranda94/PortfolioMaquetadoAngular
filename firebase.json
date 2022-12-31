@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/Portfolio ArgentinaPrograma",
+    "public": "dist/proyecto-final",
     "ignore": [
       "firebase.json",
       "**/.*",
