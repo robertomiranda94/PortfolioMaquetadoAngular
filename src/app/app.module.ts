@@ -7,12 +7,14 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './components/header/header.component';
 import { FormsModule } from '@angular/forms';
 import { EducationComponent } from './components/education/education.component';
+import { ExperienciaComponent } from './components/experiencia/experiencia.components';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
-    EducationComponent
+    EducationComponent,
+    ExperienciaComponent
   ],
   imports: [
     BrowserModule,
